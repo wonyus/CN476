@@ -1,7 +1,7 @@
 # CN476
 
 1.คลิปอธิบายblockchainตามความเข้าใจ
-<>
+<https://youtu.be/qf6gC-Txmhw>
 
 2.คลิปอธิบาย IPFS ตามความเข้าใจ 
 <>
